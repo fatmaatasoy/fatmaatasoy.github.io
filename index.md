@@ -1,7 +1,5 @@
 &nbsp;
 
-<div align="center">
-
 ### Main skills
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
@@ -37,5 +35,3 @@
 [![Linkedin](https://img.shields.io/badge/erdinccurebal-go%20to%20linkedin%20page-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
 [![Mail Badge](https://img.shields.io/badge/erdinccurebal@hotmail.com-Content%20me%20on%20mail-green?style=for-the-badge&logo=gmail)](mailto:erdinccurebal@hotmail.com)
-  
- </div>
