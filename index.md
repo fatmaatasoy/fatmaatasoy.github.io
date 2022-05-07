@@ -39,6 +39,8 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdinccurebal&layout=compact&hide_border=true&title_color=149414&text_color=149414&bg_color=0d1117" />
 </div>
 
+------------
+
 ### How To Reach Me:
   
 [![Github](https://img.shields.io/badge/erdinccurebal-go%20to%20github%20page-1e6bb8?style=for-the-badge&logo=github&labelColor=404040)](https://github.com/erdinccurebal)
