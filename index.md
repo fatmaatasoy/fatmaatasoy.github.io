@@ -1,6 +1,9 @@
 &nbsp;
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" /></div>
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ------------
 
