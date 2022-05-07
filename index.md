@@ -7,7 +7,7 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdinccurebal&layout=compact&hide_border=true&title_color=149414&text_color=149414&bg_color=0d1117" />
 
 
-<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" />
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" />
 
 ### Main skills
 
