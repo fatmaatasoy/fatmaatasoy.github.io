@@ -1,7 +1,5 @@
 &nbsp;
 
-# 👋 Hi there
-
 ### Main skills:
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
@@ -30,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
 
-### 📫 How to reach me
+### How to reach me
 
 [![Linkedin](https://img.shields.io/badge/erdinccurebal-go%20to%20tr%20website-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
