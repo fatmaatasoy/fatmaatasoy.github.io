@@ -1,14 +1,5 @@
 &nbsp;
 
-
-<div align="center">  
-
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=erdinccurebal&show_icons=true&count_private=true&hide_border=true&title_color=149414&icon_color=149414&text_color=c9d1d9" alt="erdinccurebal github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdinccurebal&layout=compact&hide_border=true&title_color=149414&text_color=149414" />
-
-
-<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" />
-
 ### Main skills
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
