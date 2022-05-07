@@ -1,8 +1,6 @@
 &nbsp;
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&hide_border=true&sideNums=159957&ring=159957&fire=159957&currStreakLabel=159957&date_format=j%20M%5B%20Y%5D" alt="Erdinç Cürebal" /></div>
-
-------------
+<div align="center">
 
 ### Main skill:
 
@@ -32,6 +30,12 @@
 ![Git](https://img.shields.io/badge/-Git-555555?style=for-the-badge&logo=git&labelColor=404040)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-555555?style=for-the-badge&logo=amazon-aws&labelColor=404040)&nbsp;
 
+------------
+
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&hide_border=true&sideNums=159957&ring=159957&fire=159957&currStreakLabel=159957&date_format=j%20M%5B%20Y%5D" alt="Erdinç Cürebal" />
+
+------------
+
 ### How To Reach Me:
   
 [![Github](https://img.shields.io/badge/erdinccurebal-go%20to%20github%20page-1e6bb8?style=for-the-badge&logo=github&labelColor=404040)](https://github.com/erdinccurebal)
@@ -39,4 +43,6 @@
 [![Linkedin](https://img.shields.io/badge/erdinccurebal-go%20to%20linkedin%20page-1e6bb8?style=for-the-badge&logo=linkedin&labelColor=404040)](https://www.linkedin.com/in/erdinccurebal/)
 
 [![Mail Badge](https://img.shields.io/badge/erdinccurebal@hotmail.com-Content%20me%20on%20mail-1e6bb8?style=for-the-badge&logo=gmail&labelColor=404040)](mailto:erdinccurebal@hotmail.com)
+  
+</div>
 
