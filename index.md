@@ -1,7 +1,7 @@
 &nbsp;
 
   <div align="center">
-    <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&hide_border=true&currStreakNum=149414&fire=149414&currStreakLabel=149414&date_format=j%20M%5B%20Y%5D)" alt="Erdinç Cürebal" />
+    <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&hide_border=true&sideNums=149414&fire=149414&currStreakLabel=149414&date_format=j%20M%5B%20Y%5D)" alt="Erdinç Cürebal" />
   </div>
 
 ------------
