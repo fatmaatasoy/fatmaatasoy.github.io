@@ -1,10 +1,5 @@
 &nbsp;
 
- 
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=erdinccurebal&theme=github&hide_border=true&area=true&line=2b5329&color=149414&point=9ccc9c" />
-</div> 
-
 
 <div align="center">  
 
