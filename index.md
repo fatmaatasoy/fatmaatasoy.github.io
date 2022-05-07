@@ -1,8 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=149414&height=180&section=header&text=Erdinç Cürebal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Erdinç+Cürebal;I+AM+A+FAN+OF+JAVASCRIPT;I+SPECIALIZE+===+WEB+DEVELOPMENT;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
-
-
  
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=erdinccurebal&theme=github&hide_border=true&area=true&line=2b5329&color=149414&point=9ccc9c" />
@@ -44,11 +40,3 @@
 ![Typescriot](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erdinccurebal}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=149414&height=120&section=footer"/>
