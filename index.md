@@ -13,7 +13,7 @@
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
-### Backend skills
+### Backend Skills
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
@@ -21,7 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### Frontend skills
+### Frontend Skills
 
 ![HTML](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
 
-### How to reach me
+### How To Reach Me
 
 [![Linkedin](https://img.shields.io/badge/erdinccurebal-go%20to%20linkedin%20page-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
