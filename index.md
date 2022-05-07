@@ -6,7 +6,7 @@
 
 ### Backend Skills:
 
-![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Express.JS](https://img.shields.io/badge/-Express.js-555555?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
