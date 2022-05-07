@@ -2,7 +2,7 @@
 
 ### Main skill:
 
-![Express.JS](https://img.shields.io/badge/-Express.js-555555?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Express.JS](https://img.shields.io/badge/-Express.js-555555?style=for-the-badge&logo=node.js&labelColor=404040)&nbsp;
 
 ### Backend Skills:
 
