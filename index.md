@@ -1,13 +1,8 @@
 &nbsp;
 
-<div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
   <div align="center">
     <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=erdinccurebal&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="Erdinç Cürebal" />
   </div>
-
-</div>
 
 ------------
 
