@@ -1,7 +1,6 @@
 &nbsp;
 
-
-### How To Reach Me:
+### How to reach me:
 
 [![Github](https://img.shields.io/badge/erdinccurebal-go%20to%20github%20page-1e6bb8?style=for-the-badge&logo=github&labelColor=404040)](https://github.com/erdinccurebal)
 
