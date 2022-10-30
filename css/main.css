@@ -41,27 +41,27 @@
 }
 
 .timeline-card-primary {
-  border-left-color: #4a89dc;
+  border-left-color: #F7A9A8;
 }
 
 .timeline-card-primary:before {
-  border-color: #4a89dc;
+  border-color: #F7A9A8;
 }
 
 .timeline-card-primary:after {
-  background-color: #4a89dc;
+  background-color: #F7A9A8;
 }
 
 .timeline-card-success {
-  border-left-color: #37bc9b;
+  border-left-color: #7D82B8;
 }
 
 .timeline-card-success:before {
-  border-color: #37bc9b;
+  border-color: #7D82B8;
 }
 
 .timeline-card-success:after {
-  background-color: #37bc9b;
+  background-color: #7D82B8;
 }
 
 html {
